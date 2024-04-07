@@ -1,0 +1,5 @@
+print("hello ")
+x=int(input("enter number"))
+y=int(input("enter"))
+print(f"{x}+{y}={x+y}")
+print(f"{x}-{y}={x-y}")
